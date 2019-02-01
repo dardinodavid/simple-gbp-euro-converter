@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/simple-gbp-euro-converter/precache-manifest.0fe72e3745e20011e7388f6864bd34f7.js"
+  "/simple-gbp-euro-converter/precache-manifest.915e1e568b820e465b21d8ad5bc98711.js"
 );
 
 workbox.clientsClaim();
